@@ -25,3 +25,5 @@ document.addEventListener("DOMContentLoaded", () => {
     duration: 2000, 
     once: true, 
   });
+  
+  
