@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
   AOS.init({
-    duration:750, 
+    duration:1000, 
     once: true, 
   });
   
