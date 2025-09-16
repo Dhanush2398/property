@@ -134,7 +134,7 @@ body {
   align-items: center !important;
   padding: 0 !important;
   top: 55% !important;
-  transform: translateY(-50%) !important;
+  /* transform: translateY(-50%) !important; */
 }
 
 .swiper-button-next::after,
